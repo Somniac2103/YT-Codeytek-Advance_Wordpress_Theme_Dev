@@ -1,6 +1,6 @@
 <?php
 /**
- * Footer File
+ * Footer template
  * 
  * @package Aquila
  */

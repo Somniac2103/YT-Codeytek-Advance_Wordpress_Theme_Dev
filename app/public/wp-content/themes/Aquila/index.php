@@ -6,10 +6,10 @@
  */
 
  get_header();
- ?>
+?>
 
   <main> This is the content</main>
 
-  <?php
+<?php
   get_footer();
   
